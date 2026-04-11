@@ -7,3 +7,4 @@ target/
 dist/
 .next/
 .ship.json
+.aider*
